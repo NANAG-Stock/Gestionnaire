@@ -1,0 +1,323 @@
+2e58286c-ad9a-4278-bbea-5899f953fb09	2022-08-15	14:17:10	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+f89249d7-5325-4bda-8df3-109e5b61cb28	2022-08-15	14:18:15	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+7c1f7d6b-d6e0-42bb-b342-cf49055f70d4	2022-08-15	14:18:17	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+58ac5a1a-24a8-4788-9a67-6d5150049b8f	2022-08-15	14:20:47	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+9dbdee92-255a-4a06-a071-e49914c2adb4	2022-08-15	14:20:47	 Error: Domain not allow
+159b7a94-a842-4217-8287-63564046ebe4	2022-08-15	14:21:11	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+bb2e9a26-65bc-4501-958d-364f27c6dfc0	2022-08-15	14:21:11	 Error: Domain not allow
+f0a84436-a379-438d-9363-e7906c60e044	2022-08-15	14:21:13	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+5fec4943-c5f1-43df-9db6-26ebfe615f96	2022-08-15	14:21:13	 Error: Domain not allow
+878e0288-7bd5-4407-9678-f6f419b6cd4d	2022-08-15	15:19:40	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+afc78c0d-c88c-454b-8ad7-4549bd65d642	2022-08-15	15:35:55	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+d12e2640-de5d-4e25-ae7c-d0d3a15c2dee	2022-08-15	15:42:13	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+8223d2c0-33e7-469d-9572-0ad53514fb09	2022-08-15	15:42:22	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/index
+ac5fd261-97ca-425f-9e28-8a065c806c2d	2022-08-15	15:42:28	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+8946f5d1-6051-47a9-8fea-ed921eea156c	2022-08-15	15:45:14	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+96f76f58-39e7-4829-bed8-f7b69732c55f	2022-08-15	15:45:14	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+99862583-c7ca-4096-b56a-e384373a4e1b	2022-08-15	15:45:16	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+20eab999-df4b-4e10-bbe3-e9f44c70eaf7	2022-08-15	15:45:16	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+8d971077-0c43-4363-8803-fe651fe9fe9d	2022-08-15	15:46:54	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+3d52c32c-4af8-4248-a90e-987ebc0ba54c	2022-08-15	15:46:54	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+c4cb6b70-30dc-4a6e-94d1-6a18bb88717d	2022-08-15	15:46:56	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+b3599511-b28a-416e-8112-14594100888e	2022-08-15	15:46:56	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+11c5a2db-4997-4a79-b4ce-33f3ea46be82	2022-08-15	15:47:42	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+aaa8eead-2e63-453e-bfb2-77c601be3c24	2022-08-15	15:47:42	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+2fb1ffbf-bf78-4345-b989-5bfdc80d035c	2022-08-15	15:49:36	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+222df2bb-2375-4f9c-b53c-97725f77f94a	2022-08-15	15:49:36	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+9615ed1e-a7e2-482b-97a4-46356ac6be86	2022-08-15	15:50:00	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+7294da12-49d8-4cf0-a501-eee631588002	2022-08-15	15:50:00	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+0b9cc7fd-b0f2-4d92-8960-71d6a43bc933	2022-08-15	15:50:20	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+43308703-7751-4be4-8383-d623b7143497	2022-08-15	15:50:20	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+c83041c4-681d-44e2-a169-1eab7951c66a	2022-08-15	15:50:31	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+1063ea35-24f9-4181-8a5f-7407d305e318	2022-08-15	15:50:31	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+0142b832-1282-4521-9f37-7a5b95199bc5	2022-08-15	15:51:07	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+a3ca0850-2e33-49d7-a75e-1552c820305d	2022-08-15	15:51:07	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+bea6d4cd-d79e-4907-a4c9-4a07093cc3d3	2022-08-15	15:51:43	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+02d574a2-1042-42be-bf85-11f12b120cae	2022-08-15	15:51:43	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+a29f6026-f87c-48de-b72c-dc5508054da5	2022-08-15	15:51:44	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+93c79a46-f3b4-4f49-b2e6-f8067de1fc0d	2022-08-15	15:51:44	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+18eb9216-c5b4-48d0-85f7-3f5af530c772	2022-08-15	15:51:57	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+7ce8cee6-e4c3-4e0d-a670-b587d4243fe3	2022-08-15	15:51:57	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+74b1f0ea-209d-472b-8577-fa214d2f3bfb	2022-08-15	15:52:35	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+6d25ba40-f445-414b-857d-877b1f09b5f4	2022-08-15	15:52:35	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+7e0f6481-c607-4ebc-899c-47bd6ac58406	2022-08-15	15:55:18	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+12fd2d22-eb06-4973-82e4-f03e8ddb4743	2022-08-15	15:55:18	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+16a5cc91-6158-4f37-938b-6e187091a70d	2022-08-15	15:55:44	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+75b928a4-1fb6-4d29-8b52-eb4eef6c83de	2022-08-15	15:55:44	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+06006785-0acc-46fc-b471-beb7d2d54b00	2022-08-15	15:56:26	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+61c8b23f-2b2d-425d-92a1-268e326d2904	2022-08-15	15:56:26	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+f689617e-5cd2-490b-878c-2ba1d63e75bf	2022-08-15	15:56:38	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+78452e4f-650c-43e8-874b-c59bdaf43de9	2022-08-15	15:56:38	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+41cb8a74-a39f-4605-8cbe-eb61aa922c3f	2022-08-15	15:56:44	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+d96c6f6c-9d6f-41ff-aecd-00df9db4d1c1	2022-08-15	15:56:44	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+0f1bcb00-f6fb-42ad-9cd7-5c17124a5f42	2022-08-15	15:57:17	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+a3f0e0d4-b00d-4678-8967-33350a50762a	2022-08-15	15:57:17	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+649a1963-c4ef-4b40-8062-9688b06cc998	2022-08-15	15:57:30	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+1ad881b9-c3a5-46c2-b158-66e63fd7ed7e	2022-08-15	15:57:30	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+1801bf80-2387-47b2-81ec-fd8df1c06b95	2022-08-15	15:57:31	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+3da666ab-f1d8-4d14-b0cb-8fa7f4bf988e	2022-08-15	15:57:31	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+93db47ad-8350-460f-9f74-0e351f340bda	2022-08-15	15:57:31	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+a2189810-2b0e-4905-9463-4f3721aaf229	2022-08-15	15:57:31	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+eaf74147-ce67-47dc-ba7a-170c9ec440c7	2022-08-15	16:37:46	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+30f5bbd2-43d6-4d1a-9bba-cbbe4fcdd0ea	2022-08-15	16:37:46	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+e8e5e141-6e5c-4018-ba02-6359384784fa	2022-08-15	16:38:32	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/
+7b051ffe-0be1-4d31-bd6c-96ae02e94fb4	2022-08-15	16:38:43	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+56adcee0-3682-446b-b3fe-7a102cce7502	2022-08-15	16:39:40	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+3b724ad7-47c0-4e7b-af60-cd5efed8a764	2022-08-15	16:40:09	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+a723a858-12fe-4610-aef7-7cdad31a1d68	2022-08-15	16:41:00	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+d0a3903e-02ff-4ea8-8096-da4083c32f91	2022-08-15	16:43:05	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/
+a1e4b6e6-c1e4-4d8a-bf62-a31a40fad80a	2022-08-15	16:43:20	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+12a020a0-8389-43eb-a136-58c90b45c0d6	2022-08-15	16:43:59	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+8b139209-636f-48b9-b2af-f113e3d4e2f2	2022-08-15	16:44:01	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+820e7750-8542-4f75-9283-8dc5034fc6bc	2022-08-15	16:44:26	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+7c6a5f0a-7c82-4288-8ca0-fce39d3c407c	2022-08-15	16:44:27	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+20fe6c4d-c8ff-475d-ac64-e92f51b555fc	2022-08-15	16:44:28	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+e3f26ef7-2c8c-4d38-82b0-a359085afe5b	2022-08-15	16:44:28	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+7fa81e92-5150-4d19-9d69-cee8cc2e1716	2022-08-15	16:44:30	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+3f9a55f1-9198-4b6a-a462-e5cda12330a5	2022-08-15	16:44:30	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+6a16eba5-5676-41d9-be8d-4aa5b42be8a0	2022-08-15	16:44:46	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+77932577-ad8a-4a97-9588-cb47a93fb36f	2022-08-15	16:44:46	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+463fb130-f8e3-4d37-a148-e08600994d14	2022-08-15	16:44:55	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/
+42fd651b-b4b1-4db9-8dd3-5fdb1c0ed72e	2022-08-15	16:45:02	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+f181898f-1d34-447c-8896-ad4229d49434	2022-08-15	16:45:02	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+658f62e0-0cde-443b-8094-af2f6c1326b9	2022-08-15	16:51:11	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/
+bcd19d91-0eaa-4106-867d-4b2989655347	2022-08-15	16:51:18	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+4a6930b5-b3a9-4a55-b074-fc0e565a25fe	2022-08-15	16:57:08	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+184e2094-c881-4be7-89e0-e30f818207f4	2022-08-15	16:57:45	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+e5fb74fb-6125-4732-8e23-e75927f8b00b	2022-08-15	16:59:30	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+a50dbc37-6408-4550-9d5f-0b049e33f946	2022-08-15	16:59:31	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+39741df0-c7fa-4713-960a-294f6d12260a	2022-08-15	16:59:41	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/3
+d52cf972-5ac3-4e2c-b88c-525122aca312	2022-08-15	16:59:41	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+64745cee-5c2f-4e14-af18-82d96701d198	2022-08-15	17:00:35	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/3
+d6e90c1b-5311-45d0-8658-31d48ccc842d	2022-08-15	17:00:41	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+091b7a4e-e8d0-4565-9d61-491def02807d	2022-08-15	17:01:40	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+7a23ab87-ebf6-4c1c-b229-4f8bbe356483	2022-08-15	17:01:58	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+25c3197a-93d8-4639-8b03-4d585675b5e1	2022-08-15	17:02:47	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+ab0291f5-7bf8-4209-bb28-a16b54176d81	2022-08-15	17:04:25	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+67cf7e0e-7ae7-4de8-95db-26f59bd988f1	2022-08-15	17:05:58	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+7ea9127c-16c9-458c-904c-58e51a161b91	2022-08-15	17:05:59	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+6f2af99a-62f5-4523-a79f-6f3a75038aaf	2022-08-15	17:06:00	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+60016de7-e430-4f12-b5e5-f7b2e46bbe4b	2022-08-15	17:06:01	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+e99d12bb-609f-4401-891e-9aa504d0deb5	2022-08-15	17:06:25	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+f6114d2e-5794-4b2f-9545-6e80fc1892a4	2022-08-15	17:06:30	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+b5a314b1-4acc-4678-a0c0-9f7caabad5ae	2022-08-15	17:07:00	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+8aafa53d-a1f1-4108-b90e-731da67f19aa	2022-08-15	17:07:00	 TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2c0e093b-51cd-4b3a-a572-d73dbc7494e1	2022-08-15	17:07:42	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+abbb397c-9136-4c21-a484-087826a6348d	2022-08-15	17:07:42	 TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+a4709a28-3483-447a-8a8d-45109f6bacaa	2022-08-15	17:07:56	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/
+3c8d0455-5864-4e98-839c-e4c2c7349c88	2022-08-15	17:07:56	 TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+006a7e05-9cf0-4030-94a9-3f99acbbb352	2022-08-15	17:08:16	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+ddd984b2-72f3-4755-83bd-975bc2cd0fa8	2022-08-15	17:08:16	 TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+ea9a2786-2125-42a0-ab0a-c79a0622dc3a	2022-08-15	17:10:02	 PostmanRuntime/7.29.0	POST	undefined	/user
+5f68d547-988a-4732-9fb6-763109c7928e	2022-08-15	17:10:02	 TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+6c7e5fb1-dc10-4679-bbe7-91b8ea735271	2022-08-15	17:11:23	 PostmanRuntime/7.29.0	POST	undefined	/user
+d785faab-d424-42fe-8585-69822f633a13	2022-08-15	17:11:23	 TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+240fa07f-177e-437b-b03b-7eff4069a172	2022-08-15	17:12:15	 PostmanRuntime/7.29.0	POST	undefined	/user
+87fe5bef-341f-43ec-ae1c-f4874319488f	2022-08-15	17:15:20	 PostmanRuntime/7.29.0	POST	undefined	/user
+b2d6b828-a80c-438d-9f41-c56b8c327087	2022-08-15	17:17:08	 PostmanRuntime/7.29.0	POST	undefined	/user
+48d14698-b1aa-4c5e-89e3-ff55da836d0f	2022-08-15	17:17:36	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+b6289307-bb4e-4426-b5ad-3b7959b9cb74	2022-08-15	17:38:10	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inded
+012f807a-fa4c-440c-abfc-83a14409c519	2022-08-15	17:38:10	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+da137309-18a7-4c85-8619-8958907bd6d9	2022-08-15	17:42:05	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inde
+cfeebb63-9b5e-46d7-8e54-0589d5f70bf4	2022-08-15	17:42:05	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+94e2aaef-9de2-4f15-9713-2bd9d31029be	2022-08-15	22:03:00	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/inde
+b0fe8d5a-fa11-4f2e-86b9-41ec9af548ee	2022-08-15	22:03:00	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+8e2068dd-6711-405c-9d50-315dc5c0dc1c	2022-08-15	22:03:09	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+45dd59ae-6d63-4742-8dbb-c442752bbcc1	2022-08-15	22:03:09	 ReferenceError: path is not defined
+ef40d7dc-0739-4c8f-aae2-c38bdb888fe2	2022-08-15	22:07:59	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+1dc9e39a-bf14-4a57-b85d-71b932fd39f9	2022-08-15	22:15:23	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+e9a4cad1-80ca-4c06-9b4f-d46a8fa664c3	2022-08-15	22:15:28	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/555
+29bbe4f9-10c5-4fe4-b6f0-12e84435aa6b	2022-08-15	22:15:28	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+b307cd2e-5b00-4541-8a13-be7b5d9b54ec	2022-08-15	22:15:42	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/index
+a767a537-c454-4c3b-b2cc-de4ed8d6c5a8	2022-08-15	22:15:50	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/test
+c05ea1a3-fef5-4bcc-9513-2c60eba81dc9	2022-08-15	22:16:17	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/test
+5fe555b8-2e42-4bbc-a0fd-c7548adccf81	2022-08-15	22:16:22	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/test
+b974fb24-646f-42b2-aa36-98119237d033	2022-08-17	16:03:19	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+5470dbba-598a-4305-a02a-508d75d0d325	2022-08-17	16:03:19	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/favicon.ico
+7f0d2c1a-42a9-47d5-9243-ec80a3491038	2022-08-17	16:03:38	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user
+a33d0c4f-1717-4566-8638-57c0e454efeb	2022-08-17	16:36:44	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+bea767a4-9ed7-405c-b4e5-9e3dada7046f	2022-08-17	16:36:51	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+806526c6-e1bf-4dca-b067-3d3be566576e	2022-08-17	16:36:51	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+e8e01bfd-1210-4121-beef-3ec9b3ea8019	2022-08-17	16:37:29	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/register
+e87db52b-1a37-4dd5-b254-18de98fb12ec	2022-08-17	16:37:29	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+f880f6f6-ed20-4eae-a0c7-28d4e24d40b9	2022-08-17	16:43:16	 PostmanRuntime/7.29.2	POST	undefined	/user
+f37c35eb-9dec-4a33-ac67-67042f758f0e	2022-08-17	16:43:24	 PostmanRuntime/7.29.2	POST	undefined	/user/
+2cd970fb-4056-4cac-b499-ac4a56b65a61	2022-08-17	16:43:30	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+583d2680-d51c-4fca-902c-d1947f407b95	2022-08-17	16:43:44	 PostmanRuntime/7.29.2	GET	undefined	/user/register
+0c5440eb-1c76-48ff-a77c-503c9e85b28e	2022-08-17	16:45:58	 PostmanRuntime/7.29.2	GET	undefined	/register
+6f18ffd6-ba46-465c-a41d-b42c49eef276	2022-08-17	16:48:01	 PostmanRuntime/7.29.2	GET	undefined	/
+9dec07ac-184e-4e23-8d4f-2d1b399e7d1c	2022-08-17	16:48:06	 PostmanRuntime/7.29.2	GET	undefined	/user
+29fc2f69-9f67-4024-a6d1-4649aaf0d5f1	2022-08-17	16:48:26	 PostmanRuntime/7.29.2	GET	undefined	/user/1
+fedf70c2-6956-4563-ab37-8920d4d63ee5	2022-08-17	16:49:09	 PostmanRuntime/7.29.2	GET	undefined	/user/1
+65fe2b92-1fa8-4fe1-93d4-4268364f4720	2022-08-17	16:49:48	 PostmanRuntime/7.29.2	GET	undefined	/user
+62e065ea-9396-443f-bc61-438cc2d73b2e	2022-08-17	16:49:56	 PostmanRuntime/7.29.2	POST	undefined	/user
+4b7d0be6-b3e5-4bad-ab26-8af4c72457b5	2022-08-17	16:50:15	 PostmanRuntime/7.29.2	GET	undefined	/user/1
+7619f655-cf22-472c-91b7-9b95faf50b0f	2022-08-17	16:50:21	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+df6e8787-0560-4a51-8748-80a2a74f81df	2022-08-17	16:50:38	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+e9ccc524-1427-4704-a402-b7f3e05aa1b8	2022-08-17	16:50:48	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+c9cc455a-2840-4159-bb8c-d5cff53aab75	2022-08-17	16:51:00	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+0a47d346-ce9b-43a1-b0f8-b06ece602b66	2022-08-17	16:51:10	 PostmanRuntime/7.29.2	GET	undefined	/3
+5129974c-28e1-4a23-9bb2-13aa5735dc20	2022-08-17	16:51:20	 PostmanRuntime/7.29.2	GET	undefined	/user/id=3
+7230039c-95aa-4bb9-899d-347d5b5a6186	2022-08-17	16:51:42	 PostmanRuntime/7.29.2	GET	undefined	/user
+929174c1-3ce5-4817-bf76-6078656ef1a3	2022-08-17	16:51:45	 PostmanRuntime/7.29.2	GET	undefined	/user
+799c1495-8bc4-43be-8981-f3da7c5ed353	2022-08-17	16:51:50	 PostmanRuntime/7.29.2	POST	undefined	/user
+35146ab6-28b5-4b0b-87cb-c6ef9cb2bfc3	2022-08-17	16:52:30	 PostmanRuntime/7.29.2	POST	undefined	/user
+37fd1dfe-3221-4941-b835-de519a367559	2022-08-17	16:56:54	 PostmanRuntime/7.29.2	GET	undefined	/user
+3c51210f-ad2b-4e23-866d-0242c00a49ae	2022-08-17	16:57:18	 PostmanRuntime/7.29.2	GET	undefined	/user
+0956c972-ca34-46ea-9432-6311918f406e	2022-08-17	16:59:02	 PostmanRuntime/7.29.2	GET	undefined	/user/
+50fabd4e-9e0d-429f-bd15-49d33b84a145	2022-08-17	17:01:24	 PostmanRuntime/7.29.2	GET	undefined	/user/
+67d79b07-dabf-4ba5-85bb-eabd8bd90175	2022-08-17	17:01:47	 PostmanRuntime/7.29.2	GET	undefined	/
+5a4edd75-0b18-4515-bc0e-c882a3cef61e	2022-08-17	17:02:22	 PostmanRuntime/7.29.2	GET	undefined	/user
+d936d8fe-9a82-4451-9f9d-e95780d87828	2022-08-17	17:03:27	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+d49df1ac-fb27-4c38-96b6-d37974808fe9	2022-08-17	17:05:50	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+702c8c7a-dea7-47c7-ba80-479ef9f12a91	2022-08-17	17:05:58	 PostmanRuntime/7.29.2	POST	undefined	/user/3
+7790e28b-131c-4cf5-add1-fd718bc3496e	2022-08-17	17:06:06	 PostmanRuntime/7.29.2	POST	undefined	/user
+5072c0f8-90f1-44f3-8f9c-dae4312a3a16	2022-08-17	17:06:36	 PostmanRuntime/7.29.2	GET	undefined	/user/
+a46be490-f58a-4798-bd7e-7f3f20632fe0	2022-08-17	17:07:12	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user
+85acc405-514b-4142-9f4e-6ab0a7180cfa	2022-08-17	17:07:12	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+3c80aaf6-d998-46d0-95ea-e991c5f90d07	2022-08-17	17:08:09	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/
+6d9e61bf-5f5b-449b-8cca-d5c898b24a28	2022-08-17	17:08:09	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+51ba2f95-8a68-434d-bfbc-295e3ecb5636	2022-08-18	10:33:32	 PostmanRuntime/7.29.2	POST	undefined	/user/
+d404a075-4627-4b0f-b2d9-1efc5c26de2e	2022-08-18	10:33:39	 PostmanRuntime/7.29.2	GET	undefined	/user/
+d130e4aa-ab18-48ad-8995-6597041d385d	2022-08-18	10:34:51	 PostmanRuntime/7.29.2	GET	undefined	/user/data
+2e77914c-c7bf-4ed0-a48d-115a8dc53f7e	2022-08-18	10:34:56	 PostmanRuntime/7.29.2	GET	undefined	/user
+2c36566a-d91b-423c-8a0f-5aa40f4d3caa	2022-08-18	10:52:36	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/
+a0ef217f-1d9f-4f80-bc30-a36f5686b32f	2022-08-18	10:52:36	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/favicon.ico
+bcc7339d-374f-4c91-ae9c-6df301fee68c	2022-08-18	10:52:36	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+ff19ef1f-7515-40db-b9e2-e27f9b1e5379	2022-08-18	10:52:41	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/user
+8e8f7fe2-8566-49a5-84af-b26a9c9697c2	2022-08-18	10:52:41	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+bdd8300e-5899-496f-b052-c1c1e59b4c73	2022-08-18	10:52:59	 PostmanRuntime/7.29.2	GET	undefined	/user
+275f0d2a-16a5-4229-87a9-a9e867f21662	2022-08-18	10:52:59	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+84cfb86d-8de5-4cf5-a14e-470d0fb4a206	2022-08-18	10:53:33	 PostmanRuntime/7.29.2	GET	undefined	/user
+270458ad-ee65-4bee-97ec-1356560c47f9	2022-08-18	10:53:41	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+25887534-6971-44e8-bb69-d9ed0fd443e9	2022-08-18	10:53:46	 PostmanRuntime/7.29.2	GET	undefined	/user/dd
+a8b02b96-e6ac-4421-ba58-e2e6cf5b2159	2022-08-18	10:53:59	 PostmanRuntime/7.29.2	GET	undefined	/data
+6b6180ac-fad9-4f2b-899f-11190e15b668	2022-08-18	10:53:59	 PostmanRuntime/7.29.2	GET	undefined	/data/
+078e0e6d-1741-4ccd-be41-dda07e725c73	2022-08-18	10:53:59	 Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Desktop-GStock\gestion_quinca\views\404.html'
+70380295-d763-4f8c-95d2-779e9cb2331d	2022-08-18	10:55:04	 PostmanRuntime/7.29.2	GET	undefined	/data
+bb35f990-6615-4746-b7fe-bf1fc13b3014	2022-08-18	10:55:04	 PostmanRuntime/7.29.2	GET	undefined	/data/
+eb47c9d1-6b52-42fb-bb58-a12c65643b1f	2022-08-18	10:55:11	 PostmanRuntime/7.29.2	GET	undefined	/user
+e259fe7e-8a50-4199-8045-b9186ebc9ad8	2022-08-18	10:55:16	 PostmanRuntime/7.29.2	POST	undefined	/user
+c7f502ca-2dcb-4925-a821-b00c28d14509	2022-08-18	10:55:23	 PostmanRuntime/7.29.2	POST	undefined	/user/data
+3bbafd0f-c4b4-415d-a584-dc5aeece16ca	2022-08-18	10:55:51	 PostmanRuntime/7.29.2	GET	undefined	/user/3
+079ca854-ff41-49de-b817-5a4748ad3612	2022-08-18	10:56:01	 PostmanRuntime/7.29.2	POST	undefined	/user/3
+f3c381bb-20d0-45b1-ae9f-7e384b0ea742	2022-08-18	10:56:05	 PostmanRuntime/7.29.2	POST	undefined	/user
+9e1f15ea-3049-48f2-b329-f1e99971cdc0	2022-08-18	10:56:19	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/data
+9ee08f30-da12-46cd-9b4f-a6af30b925ca	2022-08-18	10:56:19	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/data/
+dd42bccb-925c-4955-a12e-3d2d953b50f4	2022-08-18	10:56:19	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+12b4efaf-a30a-4339-b0b2-eea8e5055e43	2022-08-18	10:56:19	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/favicon.ico
+c246b410-544b-4e63-b19d-bbe696ae3d79	2022-08-18	10:56:25	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/user
+72145fde-f963-41e4-97b7-4d4fa0e044fd	2022-08-18	10:56:25	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/favicon.ico
+c93e599b-9b9e-44d5-b42a-a7df622f9884	2022-08-18	10:56:37	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/index
+92803df9-5fa7-4a99-89d3-e99323ab5ec1	2022-08-18	10:56:37	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/favicon.ico
+f01df08a-b9a5-403c-abc1-7ab80c06c195	2022-08-18	11:07:02	 PostmanRuntime/7.29.2	POST	undefined	/user/regidter
+3ae6f2a7-7f43-4998-b10f-89b5bffab279	2022-08-18	11:07:11	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+3b518b54-7e4d-454b-8603-3add1c6578e9	2022-08-18	11:08:27	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+7ea587bb-3a9a-44aa-804d-91777a379e50	2022-08-18	11:10:47	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+c94776d8-a3ec-4d8d-b878-d69330c33782	2022-08-18	11:10:47	 Error: Cannot set headers after they are sent to the client
+789b318d-ad63-4aa7-9c4f-a0d533b268b4	2022-08-18	11:11:24	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+7dc6066c-95ca-4f88-8811-302389668d45	2022-08-18	11:11:24	 Error: Cannot set headers after they are sent to the client
+2fdc2bd6-f318-4113-bdbe-fba5735a8a9a	2022-08-18	11:13:57	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+d2a8e828-33d5-4d98-9e6a-c3c7a03fa914	2022-08-18	11:14:23	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+c091c2e5-6a82-4445-8a3c-67708f1905b9	2022-08-18	11:14:40	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+01bb9e82-653d-49fe-a6f7-9c4a79dad618	2022-08-18	11:15:52	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+d7250998-d3ed-4e0b-94b5-5a70e9397e71	2022-08-18	11:17:27	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+6f122441-5fe5-4e0f-8717-93eabc062ecc	2022-08-18	11:18:02	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+4d21db39-3ec5-4d3b-b641-ad6ca55113ef	2022-08-18	11:18:02	 TypeError: userData.find is not a function
+1b2414d5-92f4-4977-89a4-6e2968086a47	2022-08-18	11:19:05	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+bef05146-cb29-4860-8088-2737ca56c455	2022-08-18	11:19:05	 TypeError: userData.find is not a function
+d015f944-fd20-4546-a631-b12ff8d422c8	2022-08-18	11:19:51	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+acc14d17-055a-4148-8782-bbc1b1763d58	2022-08-18	11:19:51	 TypeError: Cannot read properties of undefined (reading 'find')
+e1f913fd-1169-4763-b303-f1603b9eebbb	2022-08-18	11:20:56	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+c4476b7c-1ece-4ef7-ad33-5df3ce2dde34	2022-08-18	11:20:56	 TypeError: Cannot read properties of undefined (reading 'find')
+abb88a8f-dab9-4a89-9e3e-ad8400ccdb56	2022-08-18	11:22:47	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+8cbd3847-f40d-4736-bd6a-3cc2038be95c	2022-08-18	11:22:47	 TypeError: Cannot read properties of undefined (reading 'find')
+f61f9318-97ae-4f5b-a2e2-fdeb2ad39b9b	2022-08-18	11:22:59	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+a7250000-3e18-4138-b227-25685bbb17c1	2022-08-18	11:23:37	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+af385694-5ae1-4737-9974-5af6d4821698	2022-08-18	11:23:37	 TypeError: Cannot read properties of undefined (reading 'find')
+64bed54b-ac59-4c1c-9cc3-5e83107faf4d	2022-08-18	11:24:21	 PostmanRuntime/7.29.2	POST	undefined	/user/register
+18935022-99e7-4c19-8ee9-d97bdad21a6f	2022-08-18	11:24:22	 TypeError: Cannot read properties of undefined (reading 'find')
+d2f6a224-4e84-4d81-afc2-d280edacde93	2022-08-18	11:25:14	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+69cc8440-276f-46b5-832b-1752c40261ec	2022-08-18	11:25:24	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+24c71020-3d3e-44d6-87b5-1c1428beb291	2022-08-18	11:25:30	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+2cac0891-b17b-417b-81ee-03ef76d3b5ab	2022-08-18	11:25:47	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+fdf70f41-2a8f-426f-a03b-52c3df563591	2022-08-18	11:25:47	 TypeError: Cannot read properties of undefined (reading 'find')
+f9c19719-8007-4f97-9028-68f92e55c229	2022-08-18	11:26:10	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+f9bcdbfe-0a8f-49f8-ae06-155aa8f68388	2022-08-18	11:27:41	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+afe35dd6-a0ad-4659-b359-d1bca6182e90	2022-08-18	11:27:41	 TypeError: userData.users.find is not a function
+dcdee836-bbf1-4afc-a22d-b22faaddb89f	2022-08-18	11:29:08	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+1ce2d539-7973-40c7-965e-f0bc814d2812	2022-08-18	11:29:08	 TypeError: Cannot read properties of undefined (reading 'find')
+5b69a816-2085-4227-9f0d-c25f79682025	2022-08-18	11:29:36	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+b3a65434-42b9-4c6b-8f24-55ea006b7559	2022-08-18	11:31:07	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+08cb8393-6988-4c13-a02e-9a625a621f78	2022-08-18	11:32:10	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+892e2ffd-c38b-439c-9a3f-7d3390d6e850	2022-08-18	11:32:58	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+1aabd4d2-7698-4618-8416-72319bf6dbcc	2022-08-18	11:32:58	 TypeError: Cannot read properties of undefined (reading 'find')
+28ea6927-0d6e-4b89-bfa1-95560bce1abc	2022-08-18	11:33:27	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+ca6c8719-e88e-4553-b533-ffec8dd727ec	2022-08-18	11:33:27	 TypeError: userData.user.find is not a function
+6207cbaa-1353-4285-a24d-6c6e2aebca8c	2022-08-18	11:46:54	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+ba67b98e-aa2c-4bb9-b799-5e3ff6ef5e25	2022-08-18	11:46:54	 TypeError: userData.user.find is not a function
+8c3bb413-1290-47da-9be6-6867edd32942	2022-08-18	11:48:04	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+960238bc-2ada-4fff-9c94-2121216e7f8f	2022-08-18	11:48:04	 TypeError: userData.user.find is not a function
+956143bc-056c-42da-bd36-43b6bf9a8bfd	2022-08-18	12:22:12	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+7bb7b92c-7124-4cd4-8ddc-2988fe2315cd	2022-08-18	12:22:46	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+eba809bf-7490-4264-ae1e-2373212487d8	2022-08-18	12:22:53	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+e5630a1f-de84-451c-8a16-340b44b240b7	2022-08-18	12:34:05	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/indexddd
+3aa298db-6146-4899-bb1c-de98845365ff	2022-08-18	12:34:05	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+b2c4e572-4cfb-413c-be97-07955432fcbf	2022-08-18	12:34:05	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/favicon.ico
+af3cb5dc-1f30-46cf-970e-3d29081d9555	2022-08-18	12:34:15	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/indexddd
+2ab18e13-3a30-46f9-8e7b-dca7a2e3bf2c	2022-08-18	12:34:20	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36	GET	undefined	/css/style.css
+a8496988-1bfb-46df-8763-b0ebf529fc1a	2022-08-18	12:34:29	 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36	GET	undefined	/indexddd
+1ce2b880-ad1b-4339-84c2-cff82a0dd142	2022-08-18	12:34:29	 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36	GET	undefined	/css/style.css
+ef0b788a-d956-45da-afa0-cb17ddd05f09	2022-08-18	12:35:12	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/indexddd
+c07b2521-f376-421e-95a5-871a061047e4	2022-08-18	12:35:12	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+3122b428-333a-46f4-9d28-30e2b6a70dd7	2022-08-18	12:35:37	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/indexddd
+4c7533a4-f851-46be-a408-970faad56eed	2022-08-18	12:35:37	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+8b6b8062-c91c-4e96-b955-87a8ad965150	2022-08-18	12:35:48	 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36	GET	undefined	/indexddd
+a0db7b3e-122d-4b92-b0e1-0ecfbb339c47	2022-08-18	12:35:48	 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36	GET	undefined	/css/style.css
+f6005f1f-2229-47e3-8f9f-ee218f690e34	2022-08-18	12:35:56	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/indexddd
+52250502-3a54-4402-ae32-8f9ebbb739bd	2022-08-18	12:35:56	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.70.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36	GET	undefined	/css/style.css
+42ccca1d-83a2-44c4-bc5f-4c33e4ca082c	2022-08-18	13:25:38	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+721af0b3-4b04-442b-8ad3-8a56ef755cd5	2022-08-18	13:25:46	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+c19a9485-857b-4195-b9e6-6e03f3435a21	2022-08-18	13:29:18	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+56e3cdd2-d76b-45f4-8cd2-d543a61971f2	2022-08-18	13:29:18	 ReferenceError: gernerateAccessToken is not defined
+a2c7bc2c-fe64-4a2d-a2e5-b87a9545dc2b	2022-08-18	13:30:09	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+b0bd6a96-9a76-4944-aa9b-db248ba1638b	2022-08-18	13:42:51	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+ec7ac0eb-95e3-482e-94ca-b729d145b9db	2022-08-18	13:43:17	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+94d83073-9392-4acf-96ef-141fb2d51654	2022-08-18	13:44:36	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+d2a543cb-d921-4da5-9348-069171cd4074	2022-08-18	13:58:52	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+e34688c2-5bf4-4f34-b6ed-20bb23b427bd	2022-08-18	14:00:01	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+574dc326-7525-4f3f-ae98-e4a634723e88	2022-08-18	14:00:13	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+559ad2c8-a21c-4553-b6bc-25a2eaa6e858	2022-08-18	14:27:10	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+16e096d2-a0de-4a25-b31f-e45e3bd25e5c	2022-08-18	14:27:33	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/refresh
+d7ff183e-744a-4e88-bd7f-020e1d47d8c7	2022-08-18	14:27:50	 Thunder Client (https://www.thunderclient.com)	POST	undefined	/user/register
+79dfb65e-4496-41b8-989c-ef12f88d9a9b	2022-08-18	14:28:01	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+7e5dddb6-c9c0-4938-bbb4-2bcc9692141c	2022-08-18	14:28:18	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/refresh
+7955dde2-21f2-4f46-95e1-e26c15f98732	2022-08-18	14:28:18	 ReferenceError: user is not defined
+c7c90a88-04c4-475c-ba55-9344691803cd	2022-08-18	14:31:07	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/refresh
+cc99000b-a0c1-4eb8-96e4-489a27b1b1c0	2022-08-18	14:32:29	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+435a3295-6638-434b-ace3-23b873a28bd5	2022-08-18	14:32:54	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+fe920f15-24d2-4b08-bb1f-92d55b9b1100	2022-08-18	14:32:56	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+d2e93223-27f7-482f-9476-b7d150f5ff2e	2022-08-18	14:36:51	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+f1af23a9-a68e-450b-95ea-1d9a2788316f	2022-08-18	14:37:01	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/refresh
+f27782be-387f-4e0f-8359-fa7320879a7b	2022-08-18	14:37:17	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+c016f7b6-cdfb-4ca8-a210-ac03fdd3d751	2022-08-18	14:37:25	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
+9ce1629b-b99f-443d-9034-489806bea4ca	2022-08-18	14:37:31	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/refresh
+3fe45070-fd45-4a40-8c55-a0aa117de780	2022-08-18	14:37:48	 Thunder Client (https://www.thunderclient.com)	GET	undefined	/user/register
