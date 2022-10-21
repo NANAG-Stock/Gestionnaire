@@ -68,16 +68,16 @@ class _AllChartState extends State<AllChart> {
       flspots.clear();
     });
 
-    lineChart = CustomLineChart(
-        donnee: donnee,
-        bodyGradientColor: Colors.blue,
-        lineColor: Colors.blue,
-        toultipStyle:
-            TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-        tooltipBgColor: Colors.blue,
-        bottomTitleStyle: TextStyle(fontWeight: FontWeight.bold),
-        leftTitleStyle: TextStyle(fontWeight: FontWeight.bold),
-        itemsUnit: "F");
+    // lineChart = CustomLineChart(
+    //     donnee: donnee,
+    //     bodyGradientColor: Colors.blue,
+    //     lineColor: Colors.blue,
+    //     toultipStyle:
+    //         TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+    //     tooltipBgColor: Colors.blue,
+    //     bottomTitleStyle: TextStyle(fontWeight: FontWeight.bold),
+    //     leftTitleStyle: TextStyle(fontWeight: FontWeight.bold),
+    //     itemsUnit: "F");
 
     chartTesxt = CustomManyMinesCharts(
       isCurve: false,

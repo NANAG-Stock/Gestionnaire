@@ -96,7 +96,7 @@ class DashboadState extends State<Dashboad> {
               key: scafKey,
               drawer: DrawerSideBar(
                 droit: state.user!.droit.toString(),
-                bgColor: Color(0xFF26345d),
+                bgColor: state.fullThemes!.contentThemes.sideBarColor,
               ),
               body: Row(
                 children: [
@@ -104,7 +104,7 @@ class DashboadState extends State<Dashboad> {
                       ? Text('')
                       : Expanded(
                           child: Container(
-                            color: Color(0xFF26345d),
+                            color: state.fullThemes!.contentThemes.sideBarColor,
                             child: SideBar(
                               droit: state.user!.droit.toString(),
                             ),
@@ -113,11 +113,12 @@ class DashboadState extends State<Dashboad> {
                   Expanded(
                       flex: 5,
                       child: Container(
-                        color: Color(0xFFd0d2d4),
+                        color: state.fullThemes!.contentThemes.bgColor,
                         child: Column(
                           children: [
                             Container(
-                              color: Color(0xFF26345d),
+                              color:
+                                  state.fullThemes!.contentThemes.sideBarColor,
                               height: 55,
                               padding: EdgeInsets.symmetric(
                                   horizontal: 0, vertical: 3),
@@ -139,6 +140,8 @@ class DashboadState extends State<Dashboad> {
                                   controller: ScrollController(),
                                   children: [
                                     Card(
+                                      color: state
+                                          .fullThemes!.contentThemes.bgColor,
                                       child: Responsive(children: [
                                         Div(
                                           divison: Division(
@@ -303,32 +306,42 @@ class DashboadState extends State<Dashboad> {
                                             colXS: 12,
                                           ),
                                           child: Card(
+                                            color: state.fullThemes!
+                                                .contentThemes.sideBarColor,
                                             child: Container(
                                               padding: const EdgeInsets.all(8),
                                               height: 500,
                                               child: LineChart(
                                                 CustomLineChart(
-                                                        donnee: data,
-                                                        bodyGradientColor:
-                                                            Colors.green,
-                                                        lineColor: Colors.green,
-                                                        toultipStyle: TextStyle(
-                                                            color: Colors
-                                                                .white),
-                                                        tooltipBgColor: Colors
-                                                            .green,
-                                                        bottomTitleStyle:
-                                                            TextStyle(
-                                                                fontWeight:
-                                                                    FontWeight
-                                                                        .normal),
-                                                        leftTitleStyle:
-                                                            TextStyle(
-                                                                fontWeight:
-                                                                    FontWeight
-                                                                        .normal),
-                                                        itemsUnit: "F")
-                                                    .startCreateData(),
+                                                  donnee: data,
+                                                  bodyGradientColor:
+                                                      Colors.green,
+                                                  lineColor: Colors.green,
+                                                  toultipStyle: TextStyle(
+                                                      color: Colors.white),
+                                                  tooltipBgColor: Colors.green,
+                                                  bottomTitleStyle: TextStyle(
+                                                    fontWeight:
+                                                        FontWeight.normal,
+                                                    color: state
+                                                        .fullThemes!
+                                                        .contentThemes
+                                                        .secondaryColor,
+                                                  ),
+                                                  leftTitleStyle: TextStyle(
+                                                    fontWeight:
+                                                        FontWeight.normal,
+                                                    color: state
+                                                        .fullThemes!
+                                                        .contentThemes
+                                                        .secondaryColor,
+                                                  ),
+                                                  itemsUnit: "F",
+                                                  chartBgColor: state
+                                                      .fullThemes!
+                                                      .contentThemes
+                                                      .sideBarColor,
+                                                ).startCreateData(),
                                               ),
                                             ),
                                           ),
@@ -352,12 +365,21 @@ class DashboadState extends State<Dashboad> {
                                                   colXS: 12,
                                                 ),
                                                 child: Card(
+                                                  color: state
+                                                      .fullThemes!
+                                                      .contentThemes
+                                                      .sideBarColor,
                                                   child: Container(
                                                     height: 300,
                                                     child: CustomPieChart(
-                                                        pieData: pieData,
-                                                        items: pieItems,
-                                                        centerSpaceRadius: 40),
+                                                      pieData: pieData,
+                                                      items: pieItems,
+                                                      centerSpaceRadius: 40,
+                                                      textColor: state
+                                                          .fullThemes!
+                                                          .contentThemes
+                                                          .secondaryColor,
+                                                    ),
                                                   ),
                                                 ),
                                               ),
@@ -370,9 +392,13 @@ class DashboadState extends State<Dashboad> {
                                                   colXS: 12,
                                                 ),
                                                 child: Card(
+                                                    color: state
+                                                        .fullThemes!
+                                                        .contentThemes
+                                                        .sideBarColor,
                                                     child: Container(
-                                                  height: 190,
-                                                )),
+                                                      height: 190,
+                                                    )),
                                               ),
                                             ],
                                           ),
@@ -381,9 +407,18 @@ class DashboadState extends State<Dashboad> {
                                     ),
                                     Responsive(children: [
                                       Div(
-                                        child: Container(
-                                          height: 400,
-                                          child: Card(
+                                        child: Card(
+                                          color: state.fullThemes!.contentThemes
+                                              .secondaryColor,
+                                          child: Container(
+                                            decoration: BoxDecoration(
+                                              border: Border.all(
+                                                width: 3,
+                                                color: state.fullThemes!
+                                                    .contentThemes.sideBarColor,
+                                              ),
+                                            ),
+                                            height: 400,
                                             child: CustomDataTable(
                                               data: [
                                                 {
@@ -433,8 +468,14 @@ class DashboadState extends State<Dashboad> {
                                               totalItems: 100,
                                               nextStep: (int currentSteps,
                                                   int step, bool isFront) {},
-                                              headerBgColor: Colors.teal,
+                                              headerBgColor: state.fullThemes!
+                                                  .contentThemes.sideBarColor,
                                               showSelect: false,
+                                              headerStyle: TextStyle(
+                                                  color: state
+                                                      .fullThemes!
+                                                      .contentThemes
+                                                      .secondaryColor),
                                             ),
                                           ),
                                         ),

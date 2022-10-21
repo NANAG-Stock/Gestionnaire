@@ -7,11 +7,13 @@ class CustomPieChart extends StatefulWidget {
   final List<int> pieData;
   final List items;
   final double centerSpaceRadius;
+  final Color textColor;
   const CustomPieChart(
       {Key? key,
       required this.pieData,
       required this.items,
-      required this.centerSpaceRadius})
+      required this.centerSpaceRadius,
+      required this.textColor})
       : super(key: key);
 
   @override
@@ -82,6 +84,7 @@ class PieChart2State extends State<CustomPieChart> {
           text:
               "$item (${findValue(somme(pieData), pieData[cpt]).toString().split('.')[0]}%)",
           isSquare: true,
+          textColor: widget.textColor,
         ),
       );
       cpt++;

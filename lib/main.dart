@@ -1,9 +1,6 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors
+import 'package:application_principal/Blocks/function.dart';
 import 'package:application_principal/Screens/entreprise/dashboard.dart';
-import 'package:application_principal/Screens/entreprise/custom_data_table.dart';
-import 'package:application_principal/Screens/entreprise/responsive.dart';
-import 'package:application_principal/chart/all_chart.dart';
-import 'package:application_principal/chart/pie_chart.dart';
 import 'package:application_principal/redux/app_state.dart';
 import 'package:application_principal/redux/redux_functions.dart';
 import 'package:application_principal/Screens/bon_de_sortie.dart';
@@ -39,6 +36,7 @@ import 'package:application_principal/Screens/secret2/secre2_ventes.dart';
 import 'package:application_principal/Screens/secret2/secret2_bon_de_sortie.dart';
 import 'package:application_principal/Screens/stock.dart';
 import 'package:application_principal/Screens/ventes.dart';
+import 'package:application_principal/theme/full_themes.dart';
 import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
@@ -64,7 +62,16 @@ void main() async {
     win.maximize();
     win.show();
   });
-  final initialState = AppState(user: null, isClosed: false, company: null);
+  final initialState = AppState(
+    user: null,
+    isClosed: false,
+    company: null,
+    fullThemes: FullThemes(
+      contentThemes: MyFunctions.setContentTheme(name: "dark"),
+      sideBarTheme: MyFunctions.setSideBarTheme(name: "dark"),
+      topBarTheme: MyFunctions.setTopBarTheme(name: "dark"),
+    ),
+  );
   final Store<AppState> store =
       Store<AppState>(reducer, initialState: initialState);
   runApp(MyApp(
@@ -86,7 +93,7 @@ class MyApp extends StatelessWidget {
       store: store,
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        initialRoute: 'login',
+        initialRoute: 'produit_use',
         routes: {
           'produits': (context) => Produits(),
           'home': (context) => Home(),

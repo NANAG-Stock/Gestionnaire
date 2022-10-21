@@ -223,7 +223,7 @@ class _SideBarState extends State<SideBar> {
                   child: Text(
                     state.company!.logo_com.toString(),
                     style: TextStyle(
-                        color: Colors.white,
+                        color: state.fullThemes!.sideBarTheme.secondaryColor,
                         fontSize: 30,
                         fontWeight: FontWeight.bold),
                   ),

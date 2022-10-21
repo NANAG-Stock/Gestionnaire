@@ -1,15 +1,18 @@
 import 'package:application_principal/database/company_model.dart';
 import 'package:application_principal/database/user.dart';
+import 'package:application_principal/theme/full_themes.dart';
 
 class AppState {
   User? user;
   CompanyModel? company;
   bool? isClosed;
+  FullThemes? fullThemes;
   Map<String, dynamic>? sideBarElements;
   AppState(
       {required this.user,
       required this.company,
       required this.isClosed,
+      required this.fullThemes,
       this.sideBarElements = const {
         'home': false,
         'produit': false,
@@ -31,5 +34,6 @@ class AppState {
     company = another.company;
     sideBarElements = another.sideBarElements;
     isClosed = another.isClosed;
+    fullThemes = another.fullThemes;
   }
 }

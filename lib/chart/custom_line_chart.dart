@@ -11,6 +11,7 @@ class CustomLineChart {
   final Color tooltipBgColor;
   final TextStyle bottomTitleStyle;
   final TextStyle leftTitleStyle;
+  final Color chartBgColor;
   String itemsUnit;
   CustomLineChart({
     required this.donnee,
@@ -21,6 +22,7 @@ class CustomLineChart {
     required this.bottomTitleStyle,
     required this.leftTitleStyle,
     required this.itemsUnit,
+    required this.chartBgColor,
   });
   late List<FlSpot> flspots = [];
   late LineChartData prodData;
@@ -242,7 +244,8 @@ class CustomLineChart {
             belowBarData: BarAreaData(
                 show: true, color: bodyGradientColor.withOpacity(0.2)),
           ),
-        ]);
+        ],
+        backgroundColor: Color(0xFF060317).withOpacity(0.9));
     return data;
   }
 }

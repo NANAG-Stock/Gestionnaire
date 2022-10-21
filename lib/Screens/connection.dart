@@ -7,6 +7,8 @@ import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:socket_io_client/socket_io_client.dart' as IO;
+import 'dart:io' show Platform;
+import 'package:flutter/foundation.dart' show kIsWeb;
 
 class Connection extends StatefulWidget {
   const Connection({Key? key}) : super(key: key);
@@ -16,6 +18,8 @@ class Connection extends StatefulWidget {
 }
 
 class _ConnectionState extends State<Connection> {
+  var platformName = '';
+
   TextEditingController? _username;
   TextEditingController? _password;
   GlobalKey<FormState>? _formKey;
@@ -57,6 +61,25 @@ class _ConnectionState extends State<Connection> {
     _isVisible = true;
     _isError = false;
     _isLoading = false;
+
+    if (kIsWeb) {
+      platformName = "Web";
+    } else {
+      if (Platform.isAndroid) {
+        platformName = "Android";
+      } else if (Platform.isIOS) {
+        platformName = "IOS";
+      } else if (Platform.isFuchsia) {
+        platformName = "Fuchsia";
+      } else if (Platform.isLinux) {
+        platformName = "Linux";
+      } else if (Platform.isMacOS) {
+        platformName = "MacOS";
+      } else if (Platform.isWindows) {
+        platformName = "Windows";
+      }
+    }
+    print("platformName :- " + platformName.toString());
   }
 
   login() {

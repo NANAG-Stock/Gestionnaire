@@ -11,6 +11,8 @@ AppState reducer(AppState prevState, dynamic action) {
     newState.sideBarElements = action.sidebarElements;
   } else if (action is OpenSideBar) {
     newState.isClosed = action.isClosed;
+  } else if (action is SetThemes) {
+    newState.fullThemes = action.fullThemes;
   }
   return newState;
 }

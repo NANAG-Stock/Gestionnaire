@@ -1,7 +1,6 @@
-// ignore_for_file: prefer_const_constructors, avoid_unnecessary_containers
+// ignore_for_file: prefer_const_constructors, avoid_unnecessary_containers, must_be_immutable, prefer_typing_uninitialized_variables
 
 import 'package:application_principal/Blocks/function.dart';
-import 'package:application_principal/Blocks/text_input.dart';
 import 'package:application_principal/redux/actions.dart';
 import 'package:application_principal/redux/app_state.dart';
 import 'package:application_principal/Screens/connection.dart';
@@ -45,8 +44,6 @@ class _AppBarCusState extends State<AppBarCus> {
                                       960) {
                                     widget.scafKey.currentState.openDrawer();
                                   } else {
-                                    print("Yest");
-                                    print(state.isClosed!);
                                     if (state.isClosed!) {
                                       StoreProvider.of<AppState>(context)
                                           .dispatch(
@@ -61,16 +58,19 @@ class _AppBarCusState extends State<AppBarCus> {
                                 icon: widget.isDrawer
                                     ? Icon(
                                         Icons.menu,
-                                        color: Colors.white,
+                                        color: state.fullThemes!.topBarTheme
+                                            .secondaryColor,
                                       )
                                     : state.isClosed!
                                         ? Icon(
                                             Icons.menu,
-                                            color: Colors.white,
+                                            color: state.fullThemes!.topBarTheme
+                                                .secondaryColor,
                                           )
                                         : Icon(
                                             Icons.arrow_back_ios,
-                                            color: Colors.white,
+                                            color: state.fullThemes!.topBarTheme
+                                                .secondaryColor,
                                           ),
                               ),
                             ),
@@ -80,7 +80,9 @@ class _AppBarCusState extends State<AppBarCus> {
                                 child: Text(
                                   state.company!.nom_com.toString(),
                                   style: TextStyle(
-                                      color: Colors.white, fontSize: 17),
+                                      color: state.fullThemes!.topBarTheme
+                                          .secondaryColor,
+                                      fontSize: 17),
                                 ),
                               ),
                             ),
@@ -109,7 +111,8 @@ class _AppBarCusState extends State<AppBarCus> {
                                             ? "Caissière"
                                             : "Magasinier",
                             style: TextStyle(
-                                color: Colors.amber,
+                                color:
+                                    state.fullThemes!.topBarTheme.highlihtColor,
                                 fontSize: 17,
                                 fontWeight: FontWeight.bold),
                           ),
@@ -127,7 +130,9 @@ class _AppBarCusState extends State<AppBarCus> {
                                 Text(
                                   state.user!.nom,
                                   style: TextStyle(
-                                      color: Colors.white, fontSize: 17),
+                                      color: state.fullThemes!.topBarTheme
+                                          .secondaryColor,
+                                      fontSize: 17),
                                 ),
                                 SizedBox(
                                   width: 30,

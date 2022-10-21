@@ -1,6 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
+import 'package:application_principal/redux/app_state.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_redux/flutter_redux.dart';
 
 class Links extends StatelessWidget {
   final IconData icone;
@@ -19,26 +21,34 @@ class Links extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      // decoration: BoxDecoration(
-      //   border: Border(
-      //     left: BorderSide(color: Colors.yellowAccent, width: 1),
-      //   ),
-      // ),
-      margin: EdgeInsets.only(left: 5.0),
-      child: ListTile(
-        leading: Icon(
-          icone,
-          color: isClicked ? Colors.amber : Color(0xFFd9ddde),
-        ),
-        title: Text(
-          name,
-          style: TextStyle(
-            color: isClicked ? Colors.amber : Color(0xFFd9ddde),
-          ),
-        ),
-        onTap: redirect,
-      ),
-    );
+    return StoreConnector<AppState, AppState>(
+        converter: (store) => store.state,
+        builder: (context, state) {
+          return Container(
+            // decoration: BoxDecoration(
+            //   border: Border(
+            //     left: BorderSide(color: Colors.yellowAccent, width: 1),
+            //   ),
+            // ),
+            margin: EdgeInsets.only(left: 5.0),
+            child: ListTile(
+              leading: Icon(
+                icone,
+                color: isClicked
+                    ? state.fullThemes!.sideBarTheme.foccusColor
+                    : state.fullThemes!.sideBarTheme.secondaryColor,
+              ),
+              title: Text(
+                name,
+                style: TextStyle(
+                  color: isClicked
+                      ? state.fullThemes!.sideBarTheme.foccusColor
+                      : state.fullThemes!.sideBarTheme.secondaryColor,
+                ),
+              ),
+              onTap: redirect,
+            ),
+          );
+        });
   }
 }

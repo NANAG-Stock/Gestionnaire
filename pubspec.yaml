@@ -65,6 +65,7 @@ dependencies:
   responsive_sizer: ^3.1.1
   responsive_ui: ^3.0.0
   responsive_table: ^0.2.0+2
+  adaptive_theme: ^3.1.1
 
 dev_dependencies:
   flutter_test:
